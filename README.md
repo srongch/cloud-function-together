@@ -1,2 +1,2 @@
 # Together 
-**Firebase Cloud function project for Together App prototype.** 
+**Firebase Cloud function project for [Together](https://github.com/sronglongchhem/Together) App prototype.** 
